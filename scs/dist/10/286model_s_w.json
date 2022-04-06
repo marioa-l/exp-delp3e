@@ -1,0 +1,62 @@
+{
+    "status": {
+        "a_3": {
+            "yes": 10,
+            "no": 0,
+            "undecided": 25,
+            "unknown": 0,
+            "pyes": 0.0529784722484084,
+            "pno": 0.0,
+            "pundecided": 0.8935877444505933,
+            "punknown": 0.0,
+            "time": 1.0657811164855957,
+            "percY": 40.9,
+            "percN": 0.0,
+            "percU": 102.25,
+            "percUNK": 0.0,
+            "l": 0.0529784722484084,
+            "u": 1.0
+        },
+        "a_7": {
+            "yes": 9,
+            "no": 0,
+            "undecided": 26,
+            "unknown": 0,
+            "pyes": 0.052755681285189794,
+            "pno": 0.0,
+            "pundecided": 0.893810535413812,
+            "punknown": 0.0,
+            "time": 1.1235010623931885,
+            "percY": 36.81,
+            "percN": 0.0,
+            "percU": 106.34,
+            "percUNK": 0.0,
+            "l": 0.052755681285189794,
+            "u": 1.0
+        },
+        "~a_8": {
+            "yes": 0,
+            "no": 10,
+            "undecided": 25,
+            "unknown": 0,
+            "pyes": 0.0,
+            "pno": 0.0529784722484084,
+            "pundecided": 0.8935877444505933,
+            "punknown": 0.0,
+            "time": 1.0748956203460693,
+            "percY": 0.0,
+            "percN": 40.9,
+            "percU": 102.25,
+            "percUNK": 0.0,
+            "l": 0.0,
+            "u": 0.9470215277515917
+        }
+    },
+    "data": {
+        "n_samples": 409,
+        "time": 3.3103690147399902,
+        "repeated_worlds": 374,
+        "repeated_progs": 382,
+        "unique_progs": 27
+    }
+}

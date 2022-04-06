@@ -1,0 +1,12 @@
+{
+    "metric_mean": 0.97158,
+    "metric_sd": 0.006140488579909582,
+    "time_mean": 5.0710368156433105,
+    "time_sd": 0.6818145914710511,
+    "mass_mean": 0.9664848461324915,
+    "mass_sd": 0.0038520480700850383,
+    "n_samples_mean": 819.0,
+    "n_samples_sd": 0.0,
+    "worlds_consulted_mean": 66.7,
+    "worlds_consulted_sd": 11.260994627474076
+}
